@@ -1,0 +1,4 @@
+N, X = map(input().split())
+number = input()
+if number < X:
+    print(number)
